@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "575021338266",
+    "project_id": "lab09-firebase-authentication",
+    "storage_bucket": "lab09-firebase-authentication.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575021338266:android:a17bb405eea51dc5351923",
+        "android_client_info": {
+          "package_name": "com.example.lab09"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575021338266-i2r7lvvc7o862p7hnk8u0q5kssq1o121.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCW30Cj_L3PCM2CM6wP-uKXyI3V3eZAh-4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575021338266-i2r7lvvc7o862p7hnk8u0q5kssq1o121.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
